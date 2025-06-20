@@ -12,7 +12,7 @@ This is multidimensional sentiment analysis model. It classifies reviews based o
 ** venv\Scripts\activate
 
 ##  Install Required Libraries from requirements.txt
-** python review_analyzer.py
+** pip install -r requirements.txt
 
 ## run the app 
 -- streamlit run review_analyzer.py
