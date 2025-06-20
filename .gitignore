@@ -1,0 +1,11 @@
+
+*.joblib
+.joblib
+venv/
+__pycache__/
+*.pkl
+*.h5
+*.csv
+*.zip
+*.json
+.DS_Store
