@@ -498,7 +498,7 @@ def detect_emotion(text):
 
 def main():
     st.set_page_config(
-        page_title="Amazon Reviews Analyzer",
+        page_title="SentiScan: A Multi-Faceted Review Analyzer",
         page_icon="📊",
         layout="centered"
     )
