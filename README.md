@@ -10,6 +10,9 @@ This is multidimensional sentiment analysis model. It classifies reviews based o
 ** source venv/bin/activate
 -- On Windows (Command Prompt):
 ** venv\Scripts\activate
+-- For PowerShell: 
+** .\venv\Scripts\Activate.ps1
+
 
 ##  Install Required Libraries from requirements.txt
 ** pip install -r requirements.txt
