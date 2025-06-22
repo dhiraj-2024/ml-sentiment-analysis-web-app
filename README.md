@@ -6,11 +6,14 @@ This is multidimensional sentiment analysis model. It classifies reviews based o
 ** python3 -m venv venv
 
 ## Activate the Virtual Environment
--- On macOS/Linux:
+
+### On macOS/Linux:
 ** source venv/bin/activate
--- On Windows (Command Prompt):
+
+### On Windows (Command Prompt):
 ** venv\Scripts\activate
--- For PowerShell: 
+
+### For PowerShell: 
 ** .\venv\Scripts\Activate.ps1
 
 
